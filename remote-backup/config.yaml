@@ -1,4 +1,4 @@
-name: Remote Backup
+name: Remote Backup LDB
 version: "2023.3.0"
 slug: remote_backup
 description: Automatically create and transfer HA backups using SFTP (SCP), rsync, or rclone (experimental)
